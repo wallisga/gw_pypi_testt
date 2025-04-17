@@ -26,7 +26,7 @@ def main(args=None):
     
     # Add your code here
     print("Hello from gw_pypi_testt!")
-    
+    print(args)
     return 0
 
 
